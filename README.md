@@ -20,3 +20,10 @@ Download **exiftool.exe** from google.
 For more information regarding installation and usage follow the tutorial : https://exiftool.org/
 
 Save the output of the metadata as **out.csv**
+
+**Program to extract the timestamps corresponding to each action, according to the action label**
+
+Launch the python file **Meta.py** 
+Enter the file location in the script
+example : FILE_LOCATION = r"G:\dataset\s01\out.csv"
+RUN the program
