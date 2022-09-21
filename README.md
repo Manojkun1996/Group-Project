@@ -23,9 +23,12 @@ Save the output of the metadata as **out.csv**
 
 ## Program to extract the timestamps corresponding to each action, according to the action label
 Insert the metadata.py inside s01 folder
+
 Launch the python file **Meta.py** 
+
 Enter the file location in the script
 example : FILE_LOCATION = r"G:\dataset\s01\out.csv"
+
 RUN the program.
 
 ## To synchronize the action timestamps with the timestamps of the accelerometer data, obtaining a precise correspondence between each action and its resulting acceleration pattern
