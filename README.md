@@ -22,7 +22,7 @@ For more information regarding installation and usage follow the tutorial : http
 Save the output of the metadata as **out.csv**
 
 ## Program to extract the timestamps corresponding to each action, according to the action label
-Insert the metadata.py inside s01 folder
+Clone the repo inside s01 folder
 
 Launch the python file **Meta.py** 
 
