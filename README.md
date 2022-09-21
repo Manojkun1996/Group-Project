@@ -1,6 +1,6 @@
 # Group-Project
 
-An experiment is performed with Baxter robot and the movement of the robot is recorded and a huge dataset is generated. The videos contained in the dataset have already been labeled, that is each video has been analysed and have inserted manual labels (in the image metadata) indicating beginning and end of actions performed by the participants. 
+An experiment is performed with Baxter robot and the actions of the robot is recorded and a huge dataset is generated. The videos contained in the dataset have already been labeled, that is each video has been analysed and have inserted manual labels (in the image metadata) indicating beginning and end of actions performed by the participants. 
 
 # Aim of the project
 
