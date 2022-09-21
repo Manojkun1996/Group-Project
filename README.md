@@ -16,7 +16,7 @@ Regarding the files, you will see that each folder is structured as follows:
 
 **Extraction of Metadata**
 
-Download exiftool.exe from google.
+Download **exiftool.exe** from google.
 For more information regarding installation and usage follow the tutorial : https://exiftool.org/
 
 Save the output of the metadata as **out.csv**
