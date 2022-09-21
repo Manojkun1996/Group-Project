@@ -4,7 +4,6 @@ An experiment is performed with Baxter robot and the movement of the robot is re
 
 **Aim of the project**
 
-The task therefore consits of :
 1. Writing a script which extracts the timestamps corresponding to each action, according to the action label. 
 2. To synchronize the action timestamps with the timestamps of the accelerometer data, obtaining a precise correspondence between each action and its resulting acceleration pattern. 
 
