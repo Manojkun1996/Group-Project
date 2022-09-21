@@ -34,8 +34,8 @@ Launch the python file **Extraction.py**
 
 We get the synchronised output as shown below files.
 
-my_data_left_backPose.csv
-my_data_left_wristPose.csv
-my_data_right_backPose.csv
+my_data_left_backPose.csv,
+my_data_left_wristPose.csv,
+my_data_right_backPose.csv,
 my_data_right_wristPose.csv
 
