@@ -14,4 +14,9 @@ Regarding the files, you will see that each folder is structured as follows:
 - a timestamp file (in txt format), specifiying the timestamp of each frame contained in the aforementioned subfolder.
 - 4 txt files containing the data of wearable accelerometers worn by the person during the experiment. In particular, each person was wearing one accelerometer on the back of the hand and another one on the wrist, both for the left and right arm. The data in the txt file also contain the timestamps, specifying the instant in which each sample was acquired.
 
+**Extraction of Metadata**
 
+Download exiftool.exe from google.
+For more information regarding installation and usage follow the tutorial : https://exiftool.org/
+
+Save the output of the metadata as out.csv
