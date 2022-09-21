@@ -1,14 +1,18 @@
 # Group-Project
 
+An experiment is performed with Baxter robot and the movement of the robot is recorded and a huge dataset is generated. The videos contained in the dataset have already been labeled, that is each video has been analysed and have inserted manual labels (in the image metadata) indicating beginning and end of actions performed by the participants. 
+
+**Aim of the project**
+
+The task therefore consits of :
+1. Writing a script which extracts the timestamps corresponding to each action, according to the action label. 
+2. To synchronize the action timestamps with the timestamps of the accelerometer data, obtaining a precise correspondence between each action and its resulting acceleration pattern. 
+
+**Information about the dataset**
+
 Regarding the files, you will see that each folder is structured as follows:
 - a /frames sub-folder, containing the sequence of images which make up the video of the experiment
 - a timestamp file (in txt format), specifiying the timestamp of each frame contained in the aforementioned subfolder.
 - 4 txt files containing the data of wearable accelerometers worn by the person during the experiment. In particular, each person was wearing one accelerometer on the back of the hand and another one on the wrist, both for the left and right arm. The data in the txt file also contain the timestamps, specifying the instant in which each sample was acquired.
 
-Aim of the project
 
-The videos contained in this dataset have already been labeled, that is each video has been analysed and have inserted manual labels (in the image metadata) indicating beginning and end of actions performed by the participants. 
-
-The task therefore consits of :
-1. Writing a script which extracts the timestamps corresponding to each action, according to the action label. 
-2. To synchronize the action timestamps with the timestamps of the accelerometer data, obtaining a precise correspondence between each action and its resulting acceleration pattern. 
