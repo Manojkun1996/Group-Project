@@ -40,3 +40,7 @@ my_data_left_wristPose.csv,
 my_data_right_backPose.csv,
 my_data_right_wristPose.csv
 
+## output Video
+
+https://user-images.githubusercontent.com/88244126/197787644-902773e6-747e-4a82-b411-e84c78dba4d6.mp4
+
