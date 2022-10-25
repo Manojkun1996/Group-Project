@@ -1,0 +1,7 @@
+2022-02-16 15:46:42: Subject s02 - Experimental Condition: Final Pose Interface
+2022-02-16 15:46:42: ------------------------
+2022-02-16 15:52:00: Action 4 - Robot Idle Time: 73.89866709709167 seconds
+2022-02-16 15:55:26: Action 6 - Robot Idle Time: 146.9958052635193 seconds
+2022-02-16 15:58:18: Action 8 - Robot Idle Time: 110.14710235595703 seconds
+2022-02-16 15:58:29: Action 8 - Robot Idle Time: 11.414979696273804 seconds
+2022-02-16 15:58:29: Total Task Time: 586.2318725585938 seconds

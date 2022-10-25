@@ -1,0 +1,6 @@
+2022-03-07 15:03:21: Subject s09 - Experimental Condition: Ghost Trajectory Interface
+2022-03-07 15:03:21: ------------------------
+2022-03-07 15:11:18: Action 5 - Robot Idle Time: 127.9716420173645 seconds
+2022-03-07 15:14:11: Action 7 - Robot Idle Time: 110.74813175201416 seconds
+2022-03-07 15:15:12: Action 8 - Robot Idle Time: 40.25299119949341 seconds
+2022-03-07 15:15:12: Total Task Time: 523.587176322937 seconds

@@ -1,0 +1,7 @@
+2022-02-22 16:12:54: Subject s03 - Experimental Condition: Anticipatory Trajectory Interface
+2022-02-22 16:12:54: ------------------------
+2022-02-22 16:22:02: Action 5 - Robot Idle Time: 87.91464948654175 seconds
+2022-02-22 16:26:28: Action 7 - Robot Idle Time: 205.46677374839783 seconds
+2022-02-22 16:30:19: Action 8 - Robot Idle Time: 207.66820430755615 seconds
+2022-02-22 16:30:29: Action 8 - Robot Idle Time: 10.613551139831543 seconds
+2022-02-22 16:30:29: Total Task Time: 759.2266511917114 seconds
