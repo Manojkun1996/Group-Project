@@ -29,7 +29,7 @@ Navigate to Group-Project/datasets/s01/
 Launch the python file **Meta_data.py** 
 
 Enter the file location in the script
-example : FILE_LOCATION = r"G:\dataset\s01\out.csv"
+example : FILE_LOCATION = r"G:\datasets\s01\out.csv"
 
 RUN the program.
 
