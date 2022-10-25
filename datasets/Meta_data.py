@@ -11,7 +11,7 @@ pd.options.mode.chained_assignment = None  # default='warn'
 # Metadata of all the images is extracted as a csv file using the metadata extractor.
 
 #Enter the location of the csv file which contains the extracted metadata
-FILE_LOCATION = r"G:\dataset\s02\out.csv" #out.csv is the file containing extracted metadata from the images
+FILE_LOCATION = r"G:\dataset\s01\out.csv" #out.csv is the file containing extracted metadata from the images
 df = pd.read_csv(FILE_LOCATION, error_bad_lines=False, names=['metadata', 'junk', 'value'])
 
 df = df.drop('junk', axis=1)

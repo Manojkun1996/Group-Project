@@ -1,3 +1,0 @@
-2022-03-04 10:57:59: Subject s06 - Experimental Condition: Ghost Trajectory Interface
-2022-03-04 10:57:59: ------------------------
-2022-03-04 11:01:49: Action 2 - Robot Idle Time: 121.16128063201904 seconds
