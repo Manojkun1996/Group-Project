@@ -5,7 +5,8 @@ An experiment is performed with Baxter robot and the actions of the robot is rec
 # Aim of the project
 
 1. Writing a script which extracts the timestamps corresponding to each action, according to the action label. 
-2. To synchronize the action timestamps with the timestamps of the accelerometer data, obtaining a precise correspondence between each action and its resulting acceleration pattern. 
+2. To synchronize the action timestamps with the timestamps of the accelerometer data, obtaining a precise correspondence between each action and its resulting            acceleration pattern. 
+3. To Find all the actions in the metadata of Images and extracting the information and finding its start and end labels of its data and synchronize it with along the    required sensory output.
 
 ## Information about the dataset
 
