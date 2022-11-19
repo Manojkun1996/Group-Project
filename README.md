@@ -5,7 +5,8 @@ An experiment is performed with Baxter robot and the actions of the robot is rec
 # Aim of the project
 
 1. Writing a script which extracts the timestamps corresponding to each action, according to the action label. 
-2. To synchronize the action timestamps with the timestamps of the accelerometer data, obtaining a precise correspondence between each action and its resulting acceleration pattern. 
+2. To synchronize the action timestamps with the timestamps of the accelerometer data, obtaining a precise correspondence between each action and its resulting            acceleration pattern. 
+3. To Find all the actions in the metadata of Images and extracting the information and finding its start and end labels of its data and synchronize it with along the    required sensory output.
 
 ## Information about the dataset
 
@@ -29,7 +30,7 @@ Navigate to Group-Project/datasets/s01/
 Launch the python file **Meta_data.py** 
 
 Enter the file location in the script
-example : FILE_LOCATION = r"G:\dataset\s01\out.csv"
+example : FILE_LOCATION = r"G:\datasets\s01\out.csv"
 
 RUN the program.
 
@@ -39,4 +40,19 @@ my_data_left_backPose.csv,
 my_data_left_wristPose.csv,
 my_data_right_backPose.csv,
 my_data_right_wristPose.csv
+
+## output Video
+
+https://user-images.githubusercontent.com/88244126/197787644-902773e6-747e-4a82-b411-e84c78dba4d6.mp4
+
+## Program to get the information regarding each particular actions
+
+Navigate to Group-Project/datasets/s01/
+
+Launch the python file **Meta_data_actions.py** 
+
+Enter the file location in the script
+example : FILE_LOCATION = r"G:\datasets\s01\out.csv"
+
+RUN the program.
 
