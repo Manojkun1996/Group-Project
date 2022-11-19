@@ -45,3 +45,14 @@ my_data_right_wristPose.csv
 
 https://user-images.githubusercontent.com/88244126/197787644-902773e6-747e-4a82-b411-e84c78dba4d6.mp4
 
+## Program to get the information regarding each particular actions
+
+Navigate to Group-Project/datasets/s01/
+
+Launch the python file **Meta_data_actions.py** 
+
+Enter the file location in the script
+example : FILE_LOCATION = r"G:\datasets\s01\out.csv"
+
+RUN the program.
+
