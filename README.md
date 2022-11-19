@@ -62,9 +62,6 @@ data_left_wristPose,
 data_right_backPose,
 data_right_wristPose 
 
-and the collective output of all actions which are represented as 1 if present and 0 if not present. You can use the version whichever is required for the next steps.
-
 The output video is shown below
 
 https://user-images.githubusercontent.com/88244126/202874571-c8271798-b64d-4490-9c35-89fcb66ae6ec.mp4
-
