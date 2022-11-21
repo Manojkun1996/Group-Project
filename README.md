@@ -64,9 +64,13 @@ data_right_wristPose
 
 Location on the repository :
 Group-Project/datasets/s01/data_left_backPose/
+
 Group-Project/datasets/s01/data_left_wristPose/
+
 Group-Project/datasets/s01/data_right_backPose/
+
 Group-Project/datasets/s01/data_right_wristPose/
+
 
 The output video is shown below
 
